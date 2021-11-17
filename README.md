@@ -1,4 +1,4 @@
-# Ubuntu Setup
+# Ubuntu Auto Setup
 An automated way to install usefull programs and tools for Ubuntu.
 
 ## Usage
